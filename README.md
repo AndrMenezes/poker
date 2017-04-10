@@ -1,2 +1,0 @@
-# poker
-Trabalho sobre Poker
