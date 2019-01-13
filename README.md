@@ -14,8 +14,7 @@ The main goals of this project are:
   * Expose strategies for decision making in Texas Hold'em with a probabilistic basis.
 
 ***
-[Report](https://github.com/AndrMenezes/poker/raw/master/docs/report.pdf)
+> [Report](https://github.com/AndrMenezes/poker/raw/master/docs/report.pdf)
 
-[Presentation](https://github.com/AndrMenezes/poker/raw/master/docs/presentation.pdf)
-
+> [Presentation](https://github.com/AndrMenezes/poker/raw/master/docs/presentation.pdf)
 ***
