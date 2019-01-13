@@ -4,7 +4,7 @@
 
 ## Description
 
-This work was developed during the Bachelor of Statists at [UEM](http://www.des.uem.br/).
+This work was developed during the Bachelor of Statists at [DEs/UEM](http://www.des.uem.br/).
 
 The main goals of this project are:
   * Describe a brief history of poker and its development;
