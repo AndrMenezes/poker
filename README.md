@@ -1,6 +1,6 @@
 # Poker: A probabilistic approach #
 
-> André Felipe B. Menezes and Victor Hugo Nagahama
+> André Felipe B. Menezes and [Victor Hugo Nagahama](https://www.linkedin.com/in/victor-hugo-nagahama/?originalSubdomain=br)
 
 ## Description
 
